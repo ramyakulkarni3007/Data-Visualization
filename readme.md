@@ -28,14 +28,14 @@ This project is a data visualization application built with Streamlit, designed 
 To run this project locally, follow these steps:
 
 ```bash
-git clone https://github.com/<your-github-username>/airbnb-data-viz.git
+git clone https://github.com/hrs19/airbnb-data-viz.git
 cd airbnb-data-viz
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
 ## Data
-The data used in this project consists of Airbnb listings and calendar availability, structured by state and city in CSV format. GeoJSON files are used for mapping neighborhoods.
+The data used in this project consists of Airbnb listings and calendar availability, structured by state and city in CSV format. GeoJSON files are used for mapping neighborhoods. Some data files may be missing as this repo is not git lfs, will update them later.
 
 ## Usage
 Once the application is running, navigate through the sidebar to select different filters and view the visualizations that appear based on your selections. For neighborhood users may click directly on choropleth map to select paritcular neighborhood.
