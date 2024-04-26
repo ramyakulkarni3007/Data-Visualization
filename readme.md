@@ -5,7 +5,7 @@ This project is a data visualization application built with Streamlit, designed 
 
 ## Features
 - **Dynamic Selection**: Users can select states, cities, and specific neighborhoods to view data.
-- **Interactive Maps**: Choropleth maps display neighborhoods based on ratings such as location, cleanliness, and overall satisfaction.
+- **Interactive Maps**: Choropleth maps display neighborhoods based on location rating.
 - **Visualization Suite**:
   - **Word Clouds**: Display key terms associated with neighborhoods.
   - **Polar/Radar Plots**: Compare average property scores against city averages.
@@ -13,7 +13,7 @@ This project is a data visualization application built with Streamlit, designed 
   - **Parallel Coordinate Plots**: Explore relationships between different factors like superhost status and pricing.
   - **Calendar Heatmaps**: Reveal trends in property availability through the year.
   - **Interactive Tables**: Filter and select properties, with direct links to Airbnb for booking.
-- **Data Filters**: Users can adjust filters to refine their search based on preferences like price and accommodations.
+  - **Data Filters**: Users can adjust filters to refine their search based on preferences like price and accommodations.
 
 ## Technologies Used
 - **Python**: Primary programming language.
