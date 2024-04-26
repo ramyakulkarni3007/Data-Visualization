@@ -32,7 +32,7 @@ git clone https://github.com/<your-github-username>/airbnb-data-viz.git
 cd airbnb-data-viz
 pip install -r requirements.txt
 streamlit run app.py
-'''
+```
 
 ## Data
 The data used in this project consists of Airbnb listings and calendar availability, structured by state and city in CSV format. GeoJSON files are used for mapping neighborhoods.
