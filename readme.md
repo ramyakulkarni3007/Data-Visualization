@@ -28,7 +28,7 @@ This project is a data visualization application built with Streamlit, designed 
 To run this project locally, follow these steps:
 
 ```bash
-git clone https://github.com/hrs19/airbnb-data-viz.git
+git clone https://github.com/hrs19/airbnb-data-visualization.git
 cd airbnb-data-viz
 pip install -r requirements.txt
 streamlit run app.py
